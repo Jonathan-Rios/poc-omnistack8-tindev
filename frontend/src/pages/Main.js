@@ -16,9 +16,7 @@ Dentro do match, você consegue encontrar todos os parametros passados para essa
 export default function Main({ match }){ 
     const [users, setUsers] = useState([]);
     const [matchDev, setMatchDev] = useState();
-
-
-
+ 
     useEffect( () => {
 
         async function loadUsers(){
