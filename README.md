@@ -42,3 +42,11 @@
   * yarn add multer
   * yarn add cors
   * yarn add socket.io
+
+# Imagens
+
+### Desktop
+<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="350" width="1000">
+
+### Mobile
+<img src="https://user-images.githubusercontent.com/70285547/92531201-37e88e00-f204-11ea-8cb8-6a051b9ad36e.png" height="400" width="1000">
