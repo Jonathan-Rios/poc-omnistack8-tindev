@@ -2,11 +2,13 @@
 
 ## Proof of Concept - baseado no aplicativo Tinder, utilizando de forma resumida:
 
-### Front End
+### Front-end Web
   * React.js
+
+### Front-end Mobile
   * React Native
   
-### Back End
+### Back-end
   * NodeJS
   * MongoDB.
 
@@ -21,7 +23,7 @@
 
 ## Dependências do Projeto
 
-### Mobile
+### Front-end Mobile
   * npm install -g expo-cli
   * expo install react-native-gesture-handler
   * expo install react-native-reanimated
@@ -29,13 +31,13 @@
   * yarn add axios
   * yarn add socket.io-client
 
-### Frontend
+### Front-end Web
   * yarn add axios
   * yarn add socket.io
   * yarn add react-router-dom
   * yarn add socket.io-client
 
-### Backend 
+### Back-end 
   * yarn add express
   * yarn add nodemon -D
   * yarn add mongoose
@@ -45,7 +47,7 @@
 
 # Imagens
 
-### Desktop
+### Web
 <img src="https://user-images.githubusercontent.com/70285547/92531167-27d0ae80-f204-11ea-8cf8-8a6414efabe9.png" height="300" width="1000">
 
 ### Mobile
