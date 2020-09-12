@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Semana Omnistack 8</h1>
 
-<p align="center">Projeto <strong>TinDev</strong> desenvolvido durante a Omnistack da Rocketseat</p>
+<p align="center">Projeto <strong>Tindev</strong> desenvolvido durante a Omnistack da Rocketseat</p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.18.3">
