@@ -52,7 +52,7 @@ Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 ### Insomni
 Para testar, instale o Insomnia
 * clique na Workspace → Import/Export → Import Data → From File 
-* Selecione o arquivo [Insomnia_omnistack08.json](../)
+* Selecione o arquivo [Insomnia_omnistack08.json](Insomnia_omnistack08.json)
 
 
 Veja em [backend/README.md](./backend) para informações sobre o Back-end.
