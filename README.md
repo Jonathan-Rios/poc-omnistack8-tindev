@@ -49,6 +49,16 @@ Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile
 ### Back-end 
 Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 
+### Insomni
+Para testar, instale o Insomnia
+* clique na Workspace → Import/Export → Import Data → From File 
+* Selecione o arquivo Insomnia_export.json.
+[./Insomnia_omnistack08.json](./)
+
+
+Veja em [backend/README.md](./backend) para informações sobre o Back-end.
+
+
 # Imagens
 
 ### Web
