@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png"></img>
+<img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png" height="300" width="750"></img>
 <h1 align="center">Semana Omnistack 10</h1>
 
 <p align="center">Projeto <strong>DevRadar</strong> desenvolvido durante a Omnistack da Rocketseat</p>
@@ -19,11 +19,9 @@
 
 ## Proof of Concept - baseado no aplicativo Tinder, utilizando de forma resumida:
 
-### Front-end Web
-  * React.js
-
-### Front-end Mobile
-  * React Native
+### Front-end 
+  * Web - React.js
+  * Mobile - React Native
   
 ### Back-end
   * NodeJS
@@ -40,27 +38,14 @@
 
 ## Dependências do Projeto
 
-### Front-end Mobile
-  * npm install -g expo-cli
-  * expo install react-native-gesture-handler
-  * expo install react-native-reanimated
-  * yarn add react-navigation
-  * yarn add axios
-  * yarn add socket.io-client
-
 ### Front-end Web
-  * yarn add axios
-  * yarn add socket.io
-  * yarn add react-router-dom
-  * yarn add socket.io-client
+Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.
+
+### Front-end Mobile
+Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.
 
 ### Back-end 
-  * yarn add express
-  * yarn add nodemon -D
-  * yarn add mongoose
-  * yarn add multer
-  * yarn add cors
-  * yarn add socket.io
+Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 
 # Imagens
 
