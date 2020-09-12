@@ -38,18 +38,18 @@
   * ES6+
   * Propriedades e Eventos
 
-## Dependências do Projeto
+# Dependências do Projeto
 
-### Front-end Web
+## Front-end Web
 Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.
 
-### Front-end Mobile
+## Front-end Mobile
 Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.
 
-### Back-end 
+## Back-end 
 Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 
-### Insomnia
+## Insomnia
 Para testar, instale o Insomnia
 * clique na `Workspace` → `Import/Export` → `Import Data` → `From File` 
 * Selecione o arquivo `Insomnia_omnistack08.json` deste repositório.
