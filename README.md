@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png" height="300" width="750"></img>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png" height="300" width="750"></img>
+</p>
 <h1 align="center">Semana Omnistack 10</h1>
 
 <p align="center">Projeto <strong>DevRadar</strong> desenvolvido durante a Omnistack da Rocketseat</p>
