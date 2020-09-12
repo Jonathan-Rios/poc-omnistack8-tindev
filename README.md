@@ -52,7 +52,11 @@ Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 # Imagens
 
 ### Web
-<img src="https://user-images.githubusercontent.com/70285547/92531167-27d0ae80-f204-11ea-8cf8-8a6414efabe9.png" height="300" width="1000">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/70285547/92531167-27d0ae80-f204-11ea-8cf8-8a6414efabe9.png" height="300" width="1000">
+</p>
 
 ### Mobile
-<img src="https://user-images.githubusercontent.com/70285547/92531201-37e88e00-f204-11ea-8cb8-6a051b9ad36e.png" height="350" width="1000">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/70285547/92531201-37e88e00-f204-11ea-8cb8-6a051b9ad36e.png" height="350" width="1000">
+</p>
