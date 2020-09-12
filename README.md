@@ -22,40 +22,40 @@
 ## Proof of Concept - baseado no aplicativo Tinder, utilizando de forma resumida:
 
 ### Front-end 
-  * Web - React.js
-  * Mobile - React Native
+  * `Web - React.js`
+  * `Mobile - React Native`
   
 ### Back-end
-  * NodeJS
-  * MongoDB.
+  * `NodeJS`
+  * `MongoDB`.
 
 ### Conceitos
-  * Websocket - atualizações em tempo real
-  * Roteamento - react-router-dom
-  * State - utilização de estado
-  * Estilização - CSS
-  * Componentização
-  * ES6+
-  * Propriedades e Eventos
+  * `Websocket - atualizações em tempo real`
+  * `Roteamento - react-router-dom`
+  * `State - utilização de estado`
+  * `Estilização - CSS`
+  * `Componentização`
+  * `ES6+`
+  * `Propriedades e Eventos`
 
 ## Dependências do Projeto
 
 ### Front-end Web
-Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.
+`Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.`
 
 ### Front-end Mobile
-Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.
+`Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.`
 
 ### Back-end 
-Veja em [backend/README.md](./backend) para informações sobre o Back-end.
+`Veja em [backend/README.md](./backend) para informações sobre o Back-end.`
 
-### Insomni
-Para testar, instale o Insomnia
-* clique na Workspace → Import/Export → Import Data → From File 
-* Selecione o arquivo [Insomnia_omnistack08.json](Insomnia_omnistack08.json)
+### Insomnia
+`Para testar, instale o Insomnia`
+* `clique na Workspace → Import/Export → Import Data → From File `
+* `Selecione o arquivo [Insomnia_omnistack08.json](Insomnia_omnistack08.json)`
 
 
-Veja em [backend/README.md](./backend) para informações sobre o Back-end.
+`Veja em [backend/README.md](./backend) para informações sobre o Back-end.`
 
 
 # Imagens
