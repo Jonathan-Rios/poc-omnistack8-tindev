@@ -52,7 +52,7 @@ Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 ## Insomnia
 Para testar, instale o Insomnia
 * clique na `Workspace` → `Import/Export` → `Import Data` → `From File` 
-* Selecione o arquivo `Insomnia_omnistack08.json` deste repositório.
+* Selecione o arquivo `Insomnia_omnistack09.json` deste repositório.
 
 # Imagens
 
